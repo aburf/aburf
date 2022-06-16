@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Andrew
+- 👀 I’m interested in data science and programming
+- 🌱 I’m currently learning Javascript and full-stack development via The Odin Project
+- 📫 How to reach me: https://www.linkedin.com/in/andrewfburford
